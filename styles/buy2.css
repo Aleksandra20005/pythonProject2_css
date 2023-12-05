@@ -1,0 +1,33 @@
+
+
+.card{
+clear: both;
+}
+
+
+
+.marks {
+display:flex;
+flex-wrap:wrap;
+height:5em;
+background-image: url("../images/flag.png");
+background-repeat:no-repeat;
+background-position-y:5%;
+background-position-x: 10%;
+background-size:100%;
+
+ list-style-type: none;
+    text-decoration: underline;
+margin: 10px;
+padding: 10px;
+}
+
+.beginning{
+clear: both;
+font-weight: bold;
+margin:30px;
+float: right;
+}
+.nav-link>img{
+height:50px;
+}

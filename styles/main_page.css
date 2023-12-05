@@ -1,0 +1,73 @@
+/*контент*/
+
+
+.card{
+clear: both;
+}
+
+
+
+/*Содержание*/
+.marks {
+display:flex;
+flex-wrap:wrap;
+height:5em;
+background-image: url("../images/flag.png");
+background-repeat:no-repeat;
+background-position-y:5%;
+background-position-x: 10%;
+background-size:100%;
+ list-style-type: none;
+    text-decoration: underline;
+margin: 10px;
+padding: 10px;
+}
+
+/*содержание основной страницы*/
+.main2{
+ text-align: center;
+margin: auto;
+display: flex;
+    /*главная ось*/
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.conteiner {
+    background-color: #d8ff0057;
+ flex-basis:350px;
+    flex-grow:500;
+}
+
+.conteiner>img {
+width: 300px;
+height:200px;
+margin: 30px;
+}
+
+
+.extra{
+float: right;
+}
+.extra>img{
+width: 150px;
+height: 150px;
+margin: 30px;
+
+}
+.motiv {
+font-size: 30px;
+c
+}
+
+
+.beginning{
+clear: both;
+font-weight: bold;
+margin:30px;
+float: right;
+}
+.nav-link>img{
+height:50px;
+}

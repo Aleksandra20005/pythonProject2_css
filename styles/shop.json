@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "title": "Товар 1",
+    "vendor_code": "111",
+    "description": "Cutting Edge. 3rd Edition. Starter.",
+    "price": 1999,
+    "img": "https://img3.labirint.ru/rc/94622b390c95bf524079a01ad2ad606c/363x561q80/books77/763779/cover.jpg?1599920803"
+  },
+  {
+    "id": "2",
+    "title": "Товар 2",
+    "vendor_code": "222",
+    "description": "Cutting Edge. 3rd Edition. Elementary.",
+    "price": 1999,
+    "img": "https://img4.labirint.ru/rc/98184e1684c2ac94e2426095b74d692d/363x561q80/books77/763768/cover.jpg?1599920792"
+  },
+  {
+    "id": "3",
+    "title": "Товар 3",
+    "vendor_code": "333",
+    "description": "Cutting Edge. 3rd Edition. Pre-intermediate.",
+    "price": 1800,
+    "img": "https://img3.labirint.ru/rc/0295c1c88e35a63ff74be1c7ef1c20ca/363x561q80/books77/763775/cover.jpg?1599920797"
+  },
+  {
+    "id": "4",
+    "title": "Товар 4",
+    "vendor_code": "444e",
+    "description": "Cutting Edge. 3rd Edition. Intermediate.",
+    "price": 1999,
+    "img": "https://img4.labirint.ru/rc/5704d949483b9be7dd5f5e62aa24cafd/363x561q80/books77/763782/cover.jpg?1604834707"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Товар 5",
+    "vendor_code": "4445e",
+    "description": "Cutting Edge. 3rd Edition. Upper Intermediate.",
+    "price": 1999,
+    "img": "https://img4.labirint.ru/rc/74a18c1b671311b9093a450482a4577c/363x561q80/books77/763764/cover.jpg?1608564301"
+  },
+  {
+    "id": "6",
+    "title": "Товар 6",
+    "vendor_code": "4446e",
+    "description": "Cutting Edge. 3rd Edition. Advanced. ",
+    "price": 2500,
+    "img": "https://img4.labirint.ru/rc/74a18c1b671311b9093a450482a4577c/363x561q80/books77/763764/cover.jpg?1608564301"
+  },
+  {
+    "id": "7",
+    "title": "Товар 7",
+    "vendor_code": "4447e",
+    "description": "Headway (5th edition) Beginner",
+    "price": 700,
+    "img": "https://img3.labirint.ru/rc/02df816a9d18222e29ba5c97a4aa965e/522x806/books96/958783/cover.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Товар 8",
+    "vendor_code": "4448e",
+    "description": "Headway 5th edition Elementary Student's Book",
+    "price": 800,
+    "img": "https://img4.labirint.ru/rc/ea62346d2686563ab21f391d010e32b0/522x806/books96/958792/cover.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Товар 9",
+    "vendor_code": "444e",
+    "description": "Headway 5th edition Pre Intermediate Student's Book",
+    "price": 400,
+    "img": "https://img3.labirint.ru/rc/c8a59ce580b96e2388d86a1ddb97a781/522x806/books96/958751/cover.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Товар 10",
+    "vendor_code": "44410e",
+    "description": "Headway 5th edition Intermediate Student's Book",
+    "price": 900,
+    "img": "https://img4.labirint.ru/rc/91c7cd04f013b3b614332f6cb5404215/522x806/books96/958812/cover.jpg"
+  }
+]
+
